@@ -1,3 +1,2 @@
 # RESTful-Blog
-Blog website
-All codes here
+Blog website following the RESTful routes.
