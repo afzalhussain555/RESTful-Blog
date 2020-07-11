@@ -1,4 +1,14 @@
 # RESTful-Blog
 Blog website following the RESTful routes.
 
-* Semantic UI used
+A Blogging site made using :
+- HTML
+- CSS
+- Symentic UI
+- NodeJs
+
+## Features
+ 
+- Create your own blog
+- Edit/Update your Blog 
+- Delete Your Blog
